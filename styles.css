@@ -1,0 +1,37 @@
+.buttons{
+    background-color :#f78db2;
+    color: #fcd9e5;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    margin-top: 0%;
+    margin-left: 39%;
+}
+
+body{
+    background-color: #f3538b;
+}
+h1, h2, h3{
+    color: #26ffe6;
+    font-family: 'Montserrat', sans-serif;
+}
+.one{
+    position: relative;
+    margin-top: 10%;
+    padding-top: 10px;
+    margin-left: 23%;
+}
+.two{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 35%;
+}
+.three{
+    position: relative;
+    margin-top: 10%;
+    margin-left: 40%;
+}
